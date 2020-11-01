@@ -18,4 +18,4 @@ A aplicação, conta com 9 filtros de buscas, uma caixa de pesquisa e um select 
 - MySQL
 > Para testar este projeto, basta realizar o clone ou download do código fonte.
 
-![Página principal](https://github.com/cicerodevs/crud-mvc-php-pdo-oo/blob/master/public/images/vikings-cap.PNG)
+![Página principal](https://github.com/cicerodevs/elofy-food/blob/master/public/images/elofy-food.PNG)
