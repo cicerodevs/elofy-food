@@ -1,5 +1,5 @@
 # Projeto Elofy Food
-O projeto Elofy Food, foi desenvolvido, visando atender as necessidades de uma lanchonete, onde, o proprietário podesse migrar as informações do seu negócio, para uma aplicação, onde, seria possível realizar consultas de informações, de forma dinâmica e ágil.
+O projeto Elofy Food, foi desenvolvido, visando atender as necessidades de uma lanchonete, para que o proprietário pudesse migrar as informações do seu negócio, para uma aplicação, onde, seria possível realizar consultas de informações, de forma dinâmica e ágil.
 A aplicação, conta com 9 filtros de buscas, uma caixa de pesquisa e um select para exibir a quantidade de linhas que queira visualizar por página.
 
 # Arquitetura
