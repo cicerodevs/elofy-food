@@ -20,4 +20,4 @@ Esse projeto, seguiu a arquitetura do padrão MVC, a padronização como a PSR-4
 - MySQL
 > Para testar este projeto, basta realizar o clone ou download do código fonte.
 
-![Página principal](https://github.com/cicerodevs/elofy-food/blob/master/public/images/elofy-food.PNG)
+![Página principal](https://github.com/cicerodevs/elofy-food/blob/master/public/images/elofy-cap.PNG)
